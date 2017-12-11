@@ -22,6 +22,8 @@ public class InventoryMenu : MonoBehaviour
     [SerializeField]
     Text descriptionAreaText;
 
+
+
     private List<GameObject> menuItems;
     private string defaultDescriptionText;
 
